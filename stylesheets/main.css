@@ -1,4 +1,7 @@
 /*add css*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .mainheader {
     text-align: left;
@@ -9,14 +12,12 @@ h1 {
   padding: 30px;
   font-size: 35px;
   color: white;
-  font-family: Helvetica;
 }
 a {
   float: right;
   text-align: right;
   text-align: justify;
   color: white;
-  font-family: Helvetica;
 }
 
 .links {
@@ -29,7 +30,6 @@ a {
 .leftsection {
   color: black;
   text-align: justify;
-  font-family: Helvetica;
 }
 
 img {
@@ -40,12 +40,10 @@ img {
 h2 {
   color: black;
   text-align: left;
-  font-family: Helvetica;
   font-weight: bold;
 }
 h6 {
   color: black;
   text-align: left;
-  font-family: Helvetica;
   font-weight: bold;
 }
