@@ -26,6 +26,16 @@ a {
   padding: 30px;
 }
 
+.leftsection {
+  color: black;
+  text-align: justify;
+  font-family: Helvetica;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
 
 h2 {
   color: black;
@@ -38,10 +48,4 @@ h6 {
   text-align: left;
   font-family: Helvetica;
   font-weight: bold;
-}
-
-p {
-  color: black;
-  text-align: justify;
-  font-family: Helvetica;
 }
