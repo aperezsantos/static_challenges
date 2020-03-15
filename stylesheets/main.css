@@ -4,10 +4,21 @@
     text-align: left;
 }
 h1 {
-    display: inline-block;
+  display: inline-block;
+  background-color: red;
+  padding: 30px;
+  font-size: 35px;
+  color: white;
+  text-align: left;
+  font-family: Helvetica;
 }
 a {
-    float: right;
+  float: right;
+  background-color: red;
+  padding: 30px;
+  color: white;
+  text-align: left;
+  font-family: Helvetica;
 }
 
 h2 {
