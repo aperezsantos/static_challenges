@@ -1,1 +1,6 @@
 /*add css*/
+p {
+  color: black;
+  text-align: justify;
+  font-family: Helvetica;
+}
