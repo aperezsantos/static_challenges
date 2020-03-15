@@ -1,12 +1,13 @@
 /*add css*/
+
+.mainheader {
+    text-align: left;
+}
 h1 {
-  background-color: red;
-  padding: 30px;
-  font-size: 35px;
-  color: white;
-  text-align: left;
-  font-family: Helvetica;
-  font-weight: bold;
+    display: inline-block;
+}
+a {
+    float: right;
 }
 
 h2 {
