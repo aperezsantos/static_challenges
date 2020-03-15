@@ -1,4 +1,23 @@
 /*add css*/
+h1 {
+  color: white;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+h2 {
+  color: black;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+h6 {
+  color: black;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
 p {
   color: black;
   text-align: justify;
