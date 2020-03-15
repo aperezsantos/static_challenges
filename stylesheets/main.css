@@ -34,7 +34,8 @@ a {
 
 img {
     display: block;
-    width: 100%;
+    width: 50%;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -46,4 +47,10 @@ h6 {
   color: black;
   text-align: left;
   font-weight: bold;
+}
+
+footer{
+  float: right;
+  background-color: grey;
+  padding: 30px;
 }
